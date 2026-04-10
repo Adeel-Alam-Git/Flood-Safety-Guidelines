@@ -42,6 +42,3 @@ View the live project here:
 ```bash
 git clone https://github.com/adeel‑alam‑git/Flood‑Safety‑Guidelines.git
 =======
-# Flood-Safety-Guidelines
-Stay Prepared. Stay Safe. Your Guide Before, During, and After a Flood.
->>>>>>> cf7c9e249129dae41da92f05254de4596aac12dc
