@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flood Safety Guidelines
 
 **Flood Safety Guidelines** is a simple, beginner‑friendly frontend project built using **HTML and CSS**. It provides clear, practical guidance on how to stay safe **before, during, and after a flood**. This project was created for a Devpost hackathon to help communities prepare for emergencies.
