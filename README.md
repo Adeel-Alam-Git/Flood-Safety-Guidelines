@@ -39,4 +39,3 @@ View the live project here:
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/adeel‑alam‑git/Flood‑Safety‑Guidelines.git
-=======
