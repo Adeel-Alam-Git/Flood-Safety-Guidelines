@@ -21,7 +21,6 @@ Additional tips are included to help families stay prepared, such as keeping cas
 View the live project here:  
 👉 https://adeel-alam-git.github.io/Flood-Safety-Guidelines/
 
-> ⚠️ *Note:* If the link shows a 404, ensure the repository’s default branch is `main`.
 
 ---
 
